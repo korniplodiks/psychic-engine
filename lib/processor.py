@@ -1,5 +1,6 @@
 """
 Psychic Engine - Performance Improvement
+Psychic Engine
 """
 
 import logging
